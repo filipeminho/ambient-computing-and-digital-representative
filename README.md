@@ -39,3 +39,6 @@ Saint Mary’s College of California, 2019
 ## Contact
 
 For questions regarding the repository or paper, please contact the authors through GitHub.
+
+
+© 2019 Wei Kong, Kevin Dragomir, Filipe Minho, Calvin Lim. All rights reserved.
